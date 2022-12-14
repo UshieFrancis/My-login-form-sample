@@ -1,2 +1,2 @@
  #simple login form
- anyone can contribute to make it more functional
+ Anyone can contribute to make it more functional.
